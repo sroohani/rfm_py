@@ -1,1 +1,1 @@
-# rfm_py
+# Remote File Manager (Python)
