@@ -1,0 +1,6 @@
+{
+  "roots": {
+    "Documents": "/home/jdoe/storage/doc",
+    "Images": "/home/jdoe/storage/img"
+  }
+}
